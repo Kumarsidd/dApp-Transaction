@@ -6,7 +6,7 @@
 
 To run the demo follow these steps:
 
-1. Clone the github project on the terminal `git clone https://github.com/Daltonic/dalto`.
+1. Clone the github project on the terminal `git clone https://github.com/kumarsidd/dApp-Transaction`.
 2. Follow this [tutorial](https://dev.to/daltonic/building-an-ethereum-transaction-app-with-react-and-solidity-part-two-2pg2) get your keys together.
 3. Open the project in **VS Code >> smart_contract >> hardhat.config.js** and replace its content with the codes below.
    ```js
